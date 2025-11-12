@@ -32,3 +32,13 @@ h1 {
   padding: 1rem 0rem;
   color: var(--tertiary-dark);
 }
+
+.intro{
+  padding: 3rem;
+  background-color: var(--tertiary-light);
+}
+
+.intro_text{
+  text-align: center;
+
+}
