@@ -27,8 +27,18 @@ h1 {
 
 .header_title {
   text-align: center;
-  font-size: 3rem;
+  font-size: 5rem;
   text-transform: uppercase;
   padding: 1rem 0rem;
   color: var(--tertiary-dark);
+}
+
+.intro{
+  padding: 3rem;
+  background-color: var(--tertiary-light);
+}
+
+.intro_text{
+  text-align: center;
+
 }
